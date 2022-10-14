@@ -441,7 +441,7 @@ button:nth-child(2) {
 }
 .initial-3 img {
 	width: 100%;
-	margin-top: 30px;
+	margin-top: -26px;
 }
 .initial .title h1 {
 	font-size: 2.4rem;
@@ -503,7 +503,7 @@ button:nth-child(2) {
 }
 #two {
 	height: 10px;
-	width: 50%;
+	width: 75%;
 	background: #2a6eec;
 	border-radius: 30px;
 }
@@ -515,13 +515,13 @@ button:nth-child(2) {
 }
 #four {
 	height: 10px;
-	width: 60%;
+	width: 80%;
 	background: #ee3b3b;
 	border-radius: 30px;
 }
 #five {
 	height: 10px;
-	width: 55%;
+	width: 60%;
 	background: #e9b50a;
 	border-radius: 30px;
 }
