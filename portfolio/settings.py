@@ -19,6 +19,7 @@ ALLOWED_HOSTS = [
     'abubktportfolio-production.up.railway.app',
     'https://abubktportfolio-production.up.railway.app/',
     'abubakaraslam.me',
+    'https://abubakaraslam.me/',
     '127.0.0.1'
 ]
 
