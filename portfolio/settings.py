@@ -16,6 +16,7 @@ SECRET_KEY = os.getenv('DJANGO_SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = [
+    'abubktportfolio-production.up.railway.app',
     'https://abubktportfolio-production.up.railway.app/',
     '127.0.0.1'
 ]
