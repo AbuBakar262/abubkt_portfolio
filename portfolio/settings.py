@@ -16,8 +16,7 @@ SECRET_KEY = os.getenv('DJANGO_SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'jameswaweru.herokuapp.com',
-    'jameswaweruweb.herokuapp.com',
+    'https://abubktportfolio-production.up.railway.app/',
     '127.0.0.1'
 ]
 
